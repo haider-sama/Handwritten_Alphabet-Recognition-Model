@@ -1,6 +1,7 @@
 # Handwritten_Alphabet-Recognition-Model
 
 Alphabet Recognition Model made using Python.
+
 -Libraries used scikit-learn, keras, opencv-python, matplotlib, numpy.
 
 -This Image classification model is made for a university project using CNN. Mechatronics Department, UET.
